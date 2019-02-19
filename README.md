@@ -1,1 +1,1 @@
-# hw7
+7-Query data from mysql
